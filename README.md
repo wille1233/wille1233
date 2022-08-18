@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: They/them
+- 😄 Pronouns: They/him
 - 🌱 I’m currently learning python in NTI Nacka
 - ⚡ Fun fact: Hi there 👋
 
