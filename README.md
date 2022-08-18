@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 Pronouns: They/them
+- 🌱 I’m currently learning python in NTI Nacka
+- ⚡ Fun fact: Hi there 👋
+
 <!--
 **wille1233/wille1233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
